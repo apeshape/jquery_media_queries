@@ -20,5 +20,3 @@ $(window).on('sizechange',function(e){
 
 
 
-
-

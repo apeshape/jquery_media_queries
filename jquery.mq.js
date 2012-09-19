@@ -6,6 +6,7 @@
 		useMqSizes : false
 	};
 	
+	
 	$.fn.mq = function( options ) {
 		if(options == undefined){
 			options = defaults;
